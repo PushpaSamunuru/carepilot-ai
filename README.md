@@ -37,7 +37,14 @@ CarePilot AI is a modern healthcare operations platform that helps clinics and h
 
 ## 📸 Screenshots
 
-> Screenshots coming soon.
+<img width="1902" height="963" alt="image" src="https://github.com/user-attachments/assets/57231cd7-ab6d-48bc-838a-c509b03269e3" />
+
+<img width="1910" height="971" alt="image" src="https://github.com/user-attachments/assets/414ec390-84eb-4dd6-8e2e-a9cfeec724fd" />
+
+<img width="1681" height="791" alt="image" src="https://github.com/user-attachments/assets/00726163-0664-469e-948d-e2322c9f03ac" />
+
+
+
 
 ---
 
