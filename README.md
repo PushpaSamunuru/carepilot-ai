@@ -1,6 +1,8 @@
 # 🚀 CarePilot AI
 
 **AI-Powered Healthcare Operations Assistant**
+## Live Demo
+https://ai-carepilot.netlify.app/
 
 CarePilot AI is a modern healthcare operations platform that helps clinics and healthcare teams streamline patient intake, generate AI-assisted summaries, manage follow-ups, and improve administrative workflows.
 
